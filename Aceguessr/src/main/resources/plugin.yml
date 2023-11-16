@@ -1,0 +1,4 @@
+name: Aceguessr
+version: '${version}'
+main: systems.acecore.proxy.aceguessr.Aceguessr
+api-version: '1.20'
