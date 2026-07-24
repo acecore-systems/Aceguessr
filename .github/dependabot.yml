@@ -14,8 +14,6 @@ updates:
     ignore:
       # The plugin targets the Paper 1.21 runtime used by the server.
       - dependency-name: io.papermc.paper:paper-api
-        update-types:
-          - version-update:semver-major
   - package-ecosystem: github-actions
     directory: /
     schedule:
