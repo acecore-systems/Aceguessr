@@ -9,3 +9,10 @@ Paper API を使用する Java プラグインです。現行ソースの入口�
 ```sh
 mvn --batch-mode --no-transfer-progress clean verify
 ```
+
+## 作業ルールと課題
+
+- 共通の作業方針: [リポジトリの保護・更新・公開方針](https://github.com/acecore-systems/.github/blob/main/REPOSITORY_POLICY.md)。
+- 共通の参加方法: [コントリビューションガイド](https://github.com/acecore-systems/.github/blob/main/CONTRIBUTING.md)。
+- 未完了の課題・提案: [Issues](https://github.com/acecore-systems/Aceguessr/issues)。
+- 進行中の変更: [Pull Requests](https://github.com/acecore-systems/Aceguessr/pulls)。
